@@ -101,7 +101,7 @@ Developed a vehicle aggregation platform that collects and standardizes listings
 
 💻 GitHub: [https://github.com/Jo-Avi](https://github.com/Jo-Avi)
 
-🔗 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-ID/](https://www.linkedin.com/in/aviral-yadav-b0b1793ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+🔗 LinkedIn: [https://www.linkedin.com/in/aviral-yadav/](https://www.linkedin.com/in/aviral-yadav-b0b1793ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
