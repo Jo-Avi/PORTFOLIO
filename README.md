@@ -4,7 +4,7 @@ Welcome to my personal portfolio website. This portfolio showcases my skills, ex
 
 ## 🌐 Live Portfolio
 
-🔗 [[Click here](https://github.com/Jo-Avi/Portfolio.git)](https://portfolio-chi-red-vu3ycgi21y.vercel.app/)
+🔗 [[Click here]((https://portfolio-chi-red-vu3ycgi21y.vercel.app/))]
 
 
 ---
