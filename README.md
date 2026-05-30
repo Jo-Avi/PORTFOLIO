@@ -4,8 +4,7 @@ Welcome to my personal portfolio website. This portfolio showcases my skills, ex
 
 ## 🌐 Live Portfolio
 
-🔗 [[Click here]((https://portfolio-chi-red-vu3ycgi21y.vercel.app/))]
-
+🔗 [View Portfolio](https://portfolio-chi-red-vu3ycgi21y.vercel.app/)
 
 ---
 
